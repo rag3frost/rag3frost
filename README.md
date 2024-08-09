@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rag3frost
+- 👋 Hi, I’m Sujal
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Computer Science.
 
