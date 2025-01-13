@@ -1,44 +1,71 @@
-<h2 align="left">Hi 👋! My name is Sujal Sakhare and I'm a B.Tech CSE (AI&ML) student</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rag3frost&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rag3frost&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <p align="center">
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
+<h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<p align="center">
+</p>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=rag3frost.rag3frost" alt="Profile views">
+<a href="https://github.com/Aditya664"><img src="https://img.shields.io/github/followers/rag3frost?label=Follow&amp;style=social" alt="Github"></a></p>
+<div size="20px"> Hi! My name is Sujal. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
+<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+<ul>
+<li>
+<p>🔭 I’m currently working on Personalised healthcare project</p>
+</li>
+<li>
+<p>🌱 I’m currently learning DS</p>
+</li>
+<li>
+<p>👯 I’m looking to collaborate in web dev projects</p>
+</li>
+<li>
+<p>💬 Ask me about Python, Java, Cpp, SQL</p>
+</li>
+<li>
+<p>⚡ Fun fact: [\}.</p>
+</li>
+</ul>
+<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=reactjs&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=scikit&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=c&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=cpp&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=sqlite&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=pytorch&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=android&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=csharp&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg"> </a>
+<h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
+<a href="https://www.linkedin.com/in/aditya-deshmukh-561a371a8"> <img width="32px" align="middle" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
+<a href="https://www.twitter.com/NoobCoder07"> <img width="32px" align="middle" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"></a> 
+<a href="https://medium.com/@adityadeshmukh7350"> <img width="32px" align="middle" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a> 
+<a href="http://aditya664.me/"> <img width="32px" align="middle" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"></a> 
+<a href="https://www.github.com/Aditya664"> <img width="32px" align="middle" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+<br>
+<br>
+  <br>
+<p><a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=rag3frost&amp;theme=tokyonight" alt="Aditya's GitHub Activity Graph"></a></p>
 
-###
 
-<img align="right" height="150" src="data:image/jpeg;base64,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"  />
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
 
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/sujal-s-286b33258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/rag3frost/rag3frost/output/snake.svg" alt="Snake animation" />
 
-###
+
+
+
+<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=rag3frost&amp;show_icons=true&amp;theme=tokyonight" alt="Aditya's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=rag3frost&amp;theme=tokyonight" alt="Aditya GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rag3frost&amp;theme=tokyonight" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=rag3frost&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars"></td></tr></tbody></table>
+<p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
+<br>
+<hr>
+<p>Credits: <a href="https://github.com/rag3frost">Sujal Sakhare</a></p>
+<p>Last Edited on: 04/09/2021</p> 
