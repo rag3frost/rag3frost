@@ -1,5 +1,5 @@
   <p align="center">
-    <img width="200" src="https://twitter.com/soratxn/status/1546365549738860544">
+    <img width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fsoratxn%2Fstatus%2F1546365549738860544&psig=AOvVaw0dpJEYeqnSyK7FFoae_Dnl&ust=1736840294781000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiavb2Y8ooDFQAAAAAdAAAAABAE">
 </p>
 <h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
@@ -60,7 +60,7 @@
 
 
 
-<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=rag3frost&amp;show_icons=true&amp;theme=tokyonight" alt="Aditya's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=rag3frost&amp;theme=tokyonight" alt="Sujal GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rag3frost&amp;theme=tokyonight" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=rag3frost&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars"></td></tr></tbody></table>
+<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=rag3frost&amp;show_icons=true&amp;theme=tokyonight" alt="Sujal's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=rag3frost&amp;theme=tokyonight" alt="Sujal GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rag3frost&amp;theme=tokyonight" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=rag3frost&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars"></td></tr></tbody></table>
 <p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
 <br>
 <hr>
