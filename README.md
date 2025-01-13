@@ -1,5 +1,5 @@
   <p align="center">
-    <img width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fsoratxn%2Fstatus%2F1546365549738860544&psig=AOvVaw0dpJEYeqnSyK7FFoae_Dnl&ust=1736840294781000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiavb2Y8ooDFQAAAAAdAAAAABAE">
+    <img width="200" src="https://github.com/user-attachments/assets/0b00f090-7c9f-4d42-a185-50c853a8c5e9">
 </p>
 <h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
