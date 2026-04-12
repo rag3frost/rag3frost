@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Sujal%20Sakhare&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=120&section=header&animation=fadeIn)
 
-<h3 align="center">AI & ML Engineer &nbsp;|&nbsp; VIT Bhopal University</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Sujal+Sakhare+%F0%9F%91%8B;AI+%26+ML+Engineer+%F0%9F%A4%96;Multi-Agent+Systems+Builder;Computer+Vision+%7C+IoT+%7C+RL+%F0%9F%A7%A0;VIT+Bhopal+%7C+CSE+(AI+%26+ML)+%F0%9F%8E%93" alt="Typing SVG"/>
+</p>
 
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/22b22287602523.5dbd29081561d.gif" width="600" alt="pixel art gif"/>
@@ -112,15 +114,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rag3frost&theme=react-dark&hide_border=true" />
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rag3frost&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rag3frost&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ---
 
