@@ -68,15 +68,49 @@
 
 ---
 
+## ⭐ Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rag3frost&show_icons=true&theme=dark" alt="rag3frost" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rag3frost&layout=compact&theme=dark" alt="rag3frost" />
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rag3frost&theme=dark" alt="rag3frost" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 📊 Statistics
+
+<div align="center">
+  <a href="https://github.com/rag3frost">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rag3frost&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rag3frost&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rag3frost&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rag3frost&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rag3frost&theme=2077" height="180em" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## ⚡ Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rag3frost&theme=react-dark" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rag3frost&show_icons=true&theme=radical" alt="Sujal's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rag3frost&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rag3frost&theme=radical&hide_border=false"/>
 </p>
 
 ---
