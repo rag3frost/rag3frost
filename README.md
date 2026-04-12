@@ -19,16 +19,13 @@
 
 ## `> whoami`
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   Name     : Sujal Sakhare                                      │                                         
-│   Degree   : B.Tech CSE (AI & ML) — VIT Bhopal University       │                                      
-│   Status   : Building things that think                         │
-│                                                                 │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+- 🔭 I'm currently working on `Multi-Agent AI Systems`
+- 🌱 I'm currently learning `LLM Orchestration & Reinforcement Learning`
+- 👯 I'm looking to collaborate on `AI/ML & Dev Projects`
+- 🤔 I'm looking for help with `Competitive Programming`
+- 💬 Ask me about `AI, Computer Vision, IoT, or anything tech` — except Maths 😅
+- 🎓 B.Tech CSE (AI & ML) — VIT Bhopal University
+- ⚡ Fun fact: I spend more time training models than sleeping
 
 ---
 
@@ -104,7 +101,5 @@
 </p>
 
 ---
-
-</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=100&section=footer&animation=fadeIn)
