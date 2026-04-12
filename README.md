@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=180&section=header&text=Sujal%20Sakhare&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20VIT%20Bhopal%20University&descAlignY=58&descSize=16&descColor=39ff14)
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/22b22287602523.5dbd29081561d.gif" width="480" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmd2eDVsa3VxMzQ4NHpsMzk1NnZsd2FmcXN5MzlhamN4dWtldWs2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="480" alt="pixel art coding gif"/>
 </p>
 
 <p align="center">
@@ -95,6 +95,12 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 🐍 Contribution Snake
+
+![Contribution grid snake animation](https://raw.githubusercontent.com/rag3frost/rag3frost/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
