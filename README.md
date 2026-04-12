@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=180&section=header&text=Sujal%20Sakhare&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20VIT%20Bhopal%20University&descAlignY=58&descSize=16&descColor=39ff14)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd3dGZ6eWZjMXFtdmNneGZjZm50NHVwNjVrdGFtMG5xamJ6MzZzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="480" alt="coding gif"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/22b22287602523.5dbd29081561d.gif" width="480" alt="coding gif"/>
 </p>
 
 <p align="center">
@@ -68,27 +68,15 @@
 
 ---
 
-## `> ls ~/projects`
-
-| # | Project | Description | Stack |
-|---|---------|-------------|-------|
-| 01 | 🌿 [**PlantGuardAI**](https://github.com/rag3frost/PlantGuardAI) | AI-powered plant disease detection with image classification | `Python` `OpenCV` `ML` |
-| 02 | 🤖 [**OpenClaw**](https://github.com/rag3frost/OpenClaw) | Self-modifying AI agent deployed on Railway with GitHub integration | `Docker` `LLM` `GitHub API` |
-| 03 | 🎙️ [**VisionVoice-Storyteller**](https://github.com/rag3frost/VisionVoice-Storyteller) | Multimodal AI — Computer Vision + NLP + TTS for narrative generation | `PyTorch` `OpenCV` `TTS` |
-| 04 | 🧠 [**SARSA-λ Traffic Control**](https://github.com/rag3frost/RL-TrafficControl) | Reinforcement learning agent with eligibility traces for traffic optimization | `Python` `RL` `Gymnasium` |
-| 05 | 🏈 [**NFL Content Engine**](https://github.com/rag3frost/nfl-content-engine) | Autonomous viral content discovery pipeline with custom scoring rubric | `n8n` `Gemini API` `Telegram` |
-
----
-
-## `> cat stats.json`
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=rag3frost&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=39ff14&icon_color=39ff14&text_color=cccccc"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rag3frost&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39ff14&text_color=cccccc"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rag3frost&show_icons=true&theme=radical" alt="Sujal's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rag3frost&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rag3frost&theme=dark&hide_border=true&background=0d0d0d&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=cccccc&dates=555555&stroke=1a1a2e"/>
+  <img src="https://streak-stats.demolab.com?user=rag3frost&theme=radical&hide_border=false"/>
 </p>
 
 ---
