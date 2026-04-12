@@ -20,10 +20,9 @@
 ## `> whoami`
 
 - 🔭 I'm currently working on `Multi-Agent AI Systems`
-- 🌱 I'm currently learning `LLM Orchestration & Reinforcement Learning`
-- 👯 I'm looking to collaborate on `AI/ML & Dev Projects`
+- 🌱 I'm currently learning `LLM Orchestration & Agentic AI`
+- 👯 I'm looking to collaborate on `AI/ML & Agentic AI Projects`
 - 🤔 I'm looking for help with `Competitive Programming`
-- 💬 Ask me about `AI, Computer Vision, IoT, or anything tech` — except Maths 😅
 - 🎓 B.Tech CSE (AI & ML) — VIT Bhopal University
 - ⚡ Fun fact: I spend more time training models than sleeping
 
