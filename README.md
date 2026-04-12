@@ -1,14 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=180&section=header&text=Sujal%20Sakhare&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20VIT%20Bhopal%20University&descAlignY=58&descSize=16&descColor=39ff14)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Sujal%20Sakhare&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20VIT%20Bhopal%20University&descAlignY=58&descSize=16&descColor=39ff14)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmd2eDVsa3VxMzQ4NHpsMzk1NnZsd2FmcXN5MzlhamN4dWtldWs2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="480" alt="pixel art coding gif"/>
+  <img src="https://media.giphy.com/media/JxyjhoG4FE97Sf1nhQ/giphy.gif" width="600" alt="pixel retro gif"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/rag3frost"><img src="https://komarev.com/ghpvc/?username=rag3frost&color=39ff14&style=flat-square&label=PROFILE+VIEWS" alt="views"/></a>
-  <a href="https://github.com/rag3frost?tab=followers"><img src="https://img.shields.io/github/followers/rag3frost?style=flat-square&color=39ff14&labelColor=0d0d0d&label=FOLLOWERS" alt="followers"/></a>
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-39ff14?style=flat-square&labelColor=0d0d0d" alt="focus"/>
-  <img src="https://img.shields.io/badge/LOCATION-Bhopal%2C%20India-39ff14?style=flat-square&labelColor=0d0d0d" alt="location"/>
+  <a href="https://github.com/rag3frost"><img src="https://komarev.com/ghpvc/?username=rag3frost&color=39ff14&style=flat-square&label=PROFILE+VIEWS"/></a>
+  <a href="https://github.com/rag3frost?tab=followers"><img src="https://img.shields.io/github/followers/rag3frost?style=flat-square&color=39ff14&labelColor=0d0d0d&label=FOLLOWERS"/></a>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-39ff14?style=flat-square&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/LOCATION-Bhopal%2C%20India-39ff14?style=flat-square&labelColor=0d0d0d"/>
 </p>
 
 ---
@@ -71,11 +71,12 @@
 ## ⭐ Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rag3frost&show_icons=true&theme=dark" alt="rag3frost" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rag3frost&layout=compact&theme=dark" alt="rag3frost" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rag3frost&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rag3frost&layout=compact&theme=dark&hide_border=true" />
 </p>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rag3frost&theme=dark" alt="rag3frost" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rag3frost&theme=dark&hide_border=true" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -100,14 +101,14 @@
 
 ## 🐍 Contribution Snake
 
-![Contribution grid snake animation](https://raw.githubusercontent.com/rag3frost/rag3frost/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/rag3frost/rag3frost/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## ⚡ Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rag3frost&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rag3frost&theme=react-dark&hide_border=true" />
 </div>
 
 ---
@@ -115,16 +116,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rag3frost&show_icons=true&theme=radical" alt="Sujal's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rag3frost&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
-## `> git log --graph`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rag3frost&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&color=39ff14&line=39ff14&point=ffffff&area=true&area_color=39ff1420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rag3frost&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rag3frost&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
