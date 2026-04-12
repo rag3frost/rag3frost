@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Contribution Snake SVG
 
 on:
   schedule:
@@ -11,6 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
       - uses: Platane/snk@v3
         with:
           github_user_name: rag3frost
