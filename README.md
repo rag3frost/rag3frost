@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=120&section=header&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Sujal+Sakhare+%F0%9F%91%8B;AI+%26+ML+Engineer+%F0%9F%A4%96;Multi-Agent+Systems+Builder;Web+Development+%7C+Backend+Integration+%7C+DL+%F0%9F%A7%A0;VIT+Bhopal+%7C+CSE+(AI+%26+ML)+%F0%9F%8E%93" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Sujal+Sakhare+%F0%9F%91%8B;AI+%26+ML+Engineer+%F0%9F%A4%96;Multi-Agent+Systems+Builder;Frontend+%7C+Backend+Integration+%7C+DL+%F0%9F%A7%A0;VIT+Bhopal+%7C+CSE+(AI+%26+ML)+%F0%9F%8E%93" alt="Typing SVG"/>
 </p>
 
 <p align="center">
