@@ -22,12 +22,10 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   Name     : Sujal Sakhare                                      │
-│   Handle   : rag3frost                                          │
-│   Degree   : B.Tech CSE (AI & ML) — VIT Bhopal University      │
-│   Reg No   : 23BAI11292                                         │
+│   Name     : Sujal Sakhare                                      │                                         
+│   Degree   : B.Tech CSE (AI & ML) — VIT Bhopal University       │                                      
 │   Status   : Building things that think                         │
-│   Focus    : Multi-Agent Systems · Computer Vision · RL · IoT   │
+│                                                                 │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
