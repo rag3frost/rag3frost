@@ -118,9 +118,6 @@
 
 ---
 
-<p align="center">
-  <i>"The best way to predict the future is to build it — one agent at a time."</i><br/>
-  <b>— Sujal Sakhare</b>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=100&section=footer&animation=fadeIn)
