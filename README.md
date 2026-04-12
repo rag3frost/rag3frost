@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Sujal%20Sakhare&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20VIT%20Bhopal%20University&descAlignY=58&descSize=16&descColor=39ff14)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Sujal%20Sakhare&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
+
+<h3 align="center">AI & ML Engineer &nbsp;|&nbsp; VIT Bhopal University</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JxyjhoG4FE97Sf1nhQ/giphy.gif" width="600" alt="pixel retro gif"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/22b22287602523.5dbd29081561d.gif" width="600" alt="pixel art gif"/>
 </p>
 
 <p align="center">
